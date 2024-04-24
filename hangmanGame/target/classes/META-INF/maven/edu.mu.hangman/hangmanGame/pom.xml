@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>edu.mu.hangman</groupId>
+  <artifactId>hangmanGame</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+	<dependency>
+        <groupId>org.jfree</groupId>
+        <artifactId>jfreechart</artifactId>
+        <version>1.5.3</version>
+    </dependency>
+    <dependency>
+        <groupId>org.jdesktop</groupId>
+        <artifactId>beansbinding</artifactId>
+        <version>1.2.1</version>
+    </dependency>
+    <dependency>
+        <groupId>org.jdesktop</groupId>
+        <artifactId>swing-worker</artifactId>
+        <version>1.1</version>
+    </dependency>
+  </dependencies>
+</project>
